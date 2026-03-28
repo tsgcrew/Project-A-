@@ -8,6 +8,10 @@
 | Warehouse Staff | Medium | Low | Skill gaps | Training programs |
 | IT Team | High | Medium | Workload | Resource planning |
 
+
+## Stakeholder Mapping
+
+![Stakeholder Analysis Matrix](../assets/images/Stakeholder_Analysis.png)
 ---
 
 ## Key Insight
