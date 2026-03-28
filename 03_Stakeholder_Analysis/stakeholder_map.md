@@ -11,7 +11,7 @@
 
 ## Stakeholder Mapping
 
-![Stakeholder Analysis Matrix](../assets/images/Stakeholder_Analysis.png)
+![Stakeholder Analysis Matrix](../assets/Stakeholder_Analysis.png)
 ---
 
 ## Key Insight
