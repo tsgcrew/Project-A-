@@ -27,11 +27,6 @@ How can 'A' successfully implement digital transformation while ensuring high em
 - Success Metrics
 
 ---
-## Stakeholder Mapping
-![Stakeholder Analysis Matrix](assets/Stakeholder_Analysis.png)
-
-## ADKAR Journey
-![ADKAR](assets/ADKAR_Journey.png)
 
 ##  Skills Demonstrated
 - Change Management (ADKAR, Kotter)
@@ -52,5 +47,23 @@ The success of 'A'’s transformation is not technology-driven—it is adoption-
 - 75%+ adoption of new systems within 6 months
 - 20% increase in e-commerce revenue
 - Improved employee engagement during transition
+
+---
+
+# Digrams
+## Stakeholder Mapping
+![Stakeholder Analysis Matrix](assets/Stakeholder_Analysis.png)
+
+## Stakeholder Power Matrix
+![Stakeholder Power Matrix](assets/Stakeholder_Power_Matrix.png)
+
+## ADKAR Journey
+![ADKAR](assets/ADKAR_Journey.png)
+
+## Transformation Timeline
+![Transformation Timeline](assets/Transformation_Timeline.png)
+
+## Change Impact Analysis
+![Change Impact](assets/Change_Impact.png)
 
 ---
