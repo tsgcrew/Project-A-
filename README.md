@@ -50,7 +50,7 @@ The success of 'A'’s transformation is not technology-driven—it is adoption-
 
 ---
 
-# Digrams
+# Diagrams
 ## Stakeholder Mapping
 ![Stakeholder Analysis Matrix](assets/Stakeholder_Analysis.png)
 
