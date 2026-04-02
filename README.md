@@ -27,6 +27,8 @@ How can 'A' successfully implement digital transformation while ensuring high em
 - Success Metrics
 
 ---
+## Stakeholder Mapping
+![Stakeholder Analysis](../assets/Stakeholder Analysis.png)
 
 ##  Skills Demonstrated
 - Change Management (ADKAR, Kotter)
