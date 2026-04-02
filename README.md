@@ -28,10 +28,10 @@ How can 'A' successfully implement digital transformation while ensuring high em
 
 ---
 ## Stakeholder Mapping
-![Stakeholder Analysis Matrix](../assets/Stakeholder_Analysis.png)
+![Stakeholder Analysis Matrix](assets/Stakeholder_Analysis.png)
 
 ## ADKAR Journey
-![ADKAR](../assets/ADKAR_Journey.png)
+![ADKAR](assets/ADKAR_Journey.png)
 
 ##  Skills Demonstrated
 - Change Management (ADKAR, Kotter)
